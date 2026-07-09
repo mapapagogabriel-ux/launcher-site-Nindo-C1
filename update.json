@@ -1,9 +1,5 @@
 {
   "launcher_version": "1.0.0",
   "base_url_mods": "https://mapapagogabriel-ux.github.io/Site-de-Compras-Nindo-Craft/mods/",
-  "mods": [
-    "SpringAddon7.0.jar",
-    "SpringAddonMore-1.6 (1).jar",
-    "Naruto Customizer v1.jar"
-  ]
+  "mods": []
 }
