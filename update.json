@@ -1,5 +1,5 @@
 {
-  "launcher_version": "1.0.0",
+  "launcher_version": "Teste-Staff",
   "base_url_mods": "https://github.com/mapapagogabriel-ux/launcher-site-Nindo-C1/tree/main/mods",
   "mods": [
     "!mixinbooter-10.7.jar",
