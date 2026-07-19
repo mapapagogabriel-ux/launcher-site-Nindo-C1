@@ -2,10 +2,13 @@
   "launcher_version": "Teste-Staff",
   "base_url_mods": "https://github.com/mapapagogabriel-ux/launcher-site-Nindo-C1/tree/main/mods",
   "mods": [
-    "!mixinbooter-10.7.jar",
+    "!mixinbooter-10.0.jar",
     "ahznbstweaks-2.0.jar",
+    "antiqueatlas-1.12.2-4.4.9.jar",
     "Armourers-Workshop-1.12.2-0.51.0.jar",
+    "Baryon Expansion v3.jar",
     "BetterFps-1.4.8.jar",
+    "colorfulhealthbar-0.0.4a.jar",
     "CosmeticArmorReworked-1.12.2-v5a.jar",
     "CreativeCore_v1.10.71_mc1.12.2.jar",
     "CTM-MC1.12.2-1.0.2.31.jar",
@@ -15,11 +18,14 @@
     "entityculling-1.12.2-1.6.3.jar",
     "foamfix-0.10.15-1.12.2.jar",
     "furniture-6.3.2-1.12.2.jar",
+    "Huds-1.12.2-1.0.6.jar",
     "JutsuAddon v1.0.jar",
     "kabutoaddon 5.5.8-beta.jar",
     "llibrary-1.7.20-1.12.2.jar",
     "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
     "narutomod-1.12.2-0.3.1 by hoz.jar",
+    "NarutoModAddon-0.3.1- V1.3.jar",
+    "NindoCustomMainMenu-20.jar",
     "nindomod-0.1 Teste.jar",
     "OptiFine-1.12.2_HD_U_G5.jar",
     "orochimarumod-0.2.1.jar",
@@ -36,8 +42,6 @@
     "u_team_core-forge-1.12.2-2.2.5.339.jar",
     "useful_backpacks-1.12.2-1.5.4.85.jar",
     "VariedCommodities_1.12.2-(31Mar23).jar",
-    "voicechat-forge-1.12.2-2.6.15.jar",
-    "NarutoModAddon-0.3.1- V1.3.jar",
-    "NindoCustomMainMenu-20.jar"
+    "voicechat-forge-1.12.2-2.6.15.jar"
   ]
 }
